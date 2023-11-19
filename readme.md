@@ -1,4 +1,4 @@
 ### Demo Application in Django
 
-First time using Django
+to run django app: py manage.py runserver
 
