@@ -1,4 +1,4 @@
 ### hello world in django
 
-to run django app: py manage.py runserver
+to run django app: <code>py manage.py runserver<code/>
 
