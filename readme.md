@@ -1,4 +1,4 @@
-### Demo Application in Django
+### hello world in django
 
 to run django app: py manage.py runserver
 
